@@ -9,4 +9,5 @@
 <!---
 huseyintrk/huseyintrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+["gregor1samsa","gregor1samsa","gregor1samsa","gregor1samsa","gregor1samsa"]
+["hsn1trk","hsn1trk","hsn1trk","hsn1trk","hsn1trk"]
